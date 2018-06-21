@@ -8,5 +8,6 @@ artistic style transfer using cnn
 4. the code is a tensorflow implementation that can run on a cuda enabled GPU (my specs : 2GB Nvidia 940MX)
 5. in the VGG architecture the maxpooling is repaced by average pooling as it proved to be better according to above mentioned paper.
 
-some results :
+# some results :
+
 ![alt text](https://github.com/jaydeepthik/neural-style-transfer/blob/master/output/generated_image.jpg)
