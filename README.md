@@ -11,3 +11,4 @@ artistic style transfer using cnn
 # some results :
 
 ![alt text](https://github.com/jaydeepthik/neural-style-transfer/blob/master/output/generated_image.jpg)
+![alt text](https://github.com/jaydeepthik/neural-style-transfer/blob/master/output/new2/generated_image_.jpg)
